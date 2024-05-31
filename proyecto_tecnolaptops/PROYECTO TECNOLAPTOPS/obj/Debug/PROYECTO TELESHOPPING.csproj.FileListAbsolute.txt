@@ -1,0 +1,262 @@
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\PROYECTO TELESHOPPING.exe.config
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\PROYECTO TELESHOPPING.exe
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\PROYECTO TELESHOPPING.pdb
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO USUARIO.exe
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO USUARIO.pdb
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO USUARIO.exe.config
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.AssemblyReference.cache
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.Properties.Resources.resources
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.GenerateResource.cache
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.CopyComplete
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.exe
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.pdb
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormLogin.resources
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormMenuPrincipal.resources
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\DATOS_TSP.exe
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO FACTURA.exe
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO ORDEN DE COMPRA.exe
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO PRODUCTOS DE CATALOGO.exe
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO PROVEEDOR.exe
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\DATOS_TSP.pdb
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\DATOS_TSP.exe.config
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO EMPRESA DE TRANSPORTE.pdb
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe.config
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO FACTURA.pdb
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO FACTURA.exe.config
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO ORDEN DE COMPRA.pdb
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO ORDEN DE COMPRA.exe.config
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO PRODUCTOS DE CATALOGO.pdb
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO PRODUCTOS DE CATALOGO.exe.config
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO PROVEEDOR.pdb
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO PROVEEDOR.exe.config
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\PROYECTO TELESHOPPING.exe.config
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\PROYECTO TELESHOPPING.exe
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\PROYECTO TELESHOPPING.pdb
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\DATOS_TSP.exe
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO FACTURA.exe
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO ORDEN DE COMPRA.exe
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PRODUCTOS DE CATALOGO.exe
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PROVEEDOR.exe
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO USUARIO.exe
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\DATOS_TSP.pdb
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\DATOS_TSP.exe.config
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO EMPRESA DE TRANSPORTE.pdb
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe.config
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO FACTURA.pdb
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO FACTURA.exe.config
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO ORDEN DE COMPRA.pdb
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO ORDEN DE COMPRA.exe.config
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PRODUCTOS DE CATALOGO.pdb
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PRODUCTOS DE CATALOGO.exe.config
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PROVEEDOR.pdb
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PROVEEDOR.exe.config
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO USUARIO.pdb
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO USUARIO.exe.config
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.AssemblyReference.cache
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormInicio.resources
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormLogin.resources
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormMenuPrincipal.resources
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.Properties.Resources.resources
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.GenerateResource.cache
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.CopyComplete
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.exe
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.pdb
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\MODULO_USUARIO.FormRegistro.resources
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormMenuAdmin.resources
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\Menssage Exception.exe
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\Menssage Exception.pdb
+C:\Users\miche\source\repos\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\Menssage Exception.exe.config
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\PROYECTO TELESHOPPING.exe.config
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\PROYECTO TELESHOPPING.exe
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\PROYECTO TELESHOPPING.pdb
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\DATOS_TSP.exe
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\Menssage Exception.exe
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO FACTURA.exe
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO ORDEN DE COMPRA.exe
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PRODUCTOS DE CATALOGO.exe
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PROVEEDOR.exe
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO USUARIO.exe
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\DATOS_TSP.pdb
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\DATOS_TSP.exe.config
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\Menssage Exception.pdb
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\Menssage Exception.exe.config
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO EMPRESA DE TRANSPORTE.pdb
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe.config
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO FACTURA.pdb
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO FACTURA.exe.config
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO ORDEN DE COMPRA.pdb
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO ORDEN DE COMPRA.exe.config
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PRODUCTOS DE CATALOGO.pdb
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PRODUCTOS DE CATALOGO.exe.config
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PROVEEDOR.pdb
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PROVEEDOR.exe.config
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO USUARIO.pdb
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO USUARIO.exe.config
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormInicio.resources
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormLogin.resources
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormMenuAdmin.resources
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormMenuPrincipal.resources
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\MODULO_USUARIO.FormRegistro.resources
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.Properties.Resources.resources
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.GenerateResource.cache
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.CopyComplete
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.exe
+C:\Users\user\Downloads\PROYECTO 1 PARCIAL XS\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.pdb
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\DATOS_TSP.exe
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\Menssage Exception.exe
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO FACTURA.exe
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO ORDEN DE COMPRA.exe
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PRODUCTOS DE CATALOGO.exe
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PROVEEDOR.exe
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO USUARIO.exe
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\DATOS_TSP.pdb
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\DATOS_TSP.exe.config
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\Menssage Exception.pdb
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\Menssage Exception.exe.config
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO EMPRESA DE TRANSPORTE.pdb
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe.config
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO FACTURA.pdb
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO FACTURA.exe.config
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO ORDEN DE COMPRA.pdb
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO ORDEN DE COMPRA.exe.config
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PRODUCTOS DE CATALOGO.pdb
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PRODUCTOS DE CATALOGO.exe.config
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PROVEEDOR.pdb
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PROVEEDOR.exe.config
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO USUARIO.pdb
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO USUARIO.exe.config
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.AssemblyReference.cache
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormInicio.resources
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormLogin.resources
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormMenuAdmin.resources
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormMenuPrincipal.resources
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\MODULO_USUARIO.FormRegistro.resources
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.Properties.Resources.resources
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.GenerateResource.cache
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.CoreCompileInputs.cache
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.exe
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.pdb
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\PROYECTO TELESHOPPING.exe.config
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\PROYECTO TELESHOPPING.exe
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\PROYECTO TELESHOPPING.pdb
+C:\Users\miche\Downloads\PROYECTO 1 PARCIAL G-D CS\PROYECTO 1 PARCIAL G-D CS\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.CopyComplete
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\PROYECTO TELESHOPPING.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\PROYECTO TELESHOPPING.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\PROYECTO TELESHOPPING.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\DATOS_TSP.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\Menssage Exception.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO FACTURA.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PRODUCTOS DE CATALOGO.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PROVEEDOR.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO USUARIO.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\DATOS_TSP.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\DATOS_TSP.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\Menssage Exception.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\Menssage Exception.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO EMPRESA DE TRANSPORTE.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO FACTURA.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO FACTURA.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PRODUCTOS DE CATALOGO.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PRODUCTOS DE CATALOGO.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PROVEEDOR.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PROVEEDOR.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO USUARIO.pdb
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO USUARIO.exe.config
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormInicio.resources
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormLogin.resources
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormMenuAdmin.resources
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormMenuPrincipal.resources
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\MODULO_USUARIO.FormRegistro.resources
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.CopyComplete
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.exe
+C:\Users\USER\Documents\Visual Studio 2022\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.pdb
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\PROYECTO TELESHOPPING.exe.config
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\PROYECTO TELESHOPPING.exe
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\PROYECTO TELESHOPPING.pdb
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\DATOS_TSP.exe
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\Menssage Exception.exe
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO FACTURA.exe
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PRODUCTOS DE CATALOGO.exe
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PROVEEDOR.exe
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO USUARIO.exe
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\DATOS_TSP.pdb
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\DATOS_TSP.exe.config
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\Menssage Exception.pdb
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\Menssage Exception.exe.config
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO EMPRESA DE TRANSPORTE.pdb
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe.config
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO FACTURA.pdb
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO FACTURA.exe.config
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PRODUCTOS DE CATALOGO.pdb
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PRODUCTOS DE CATALOGO.exe.config
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PROVEEDOR.pdb
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PROVEEDOR.exe.config
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO USUARIO.pdb
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO USUARIO.exe.config
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormInicio.resources
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormLogin.resources
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormMenuAdmin.resources
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormMenuPrincipal.resources
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\MODULO_USUARIO.FormRegistro.resources
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.Properties.Resources.resources
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.GenerateResource.cache
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.CopyComplete
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.exe
+C:\Users\USER\Documents\GitHub\PROYECTO-FINAL-EMPRESA-TELESHOPPING\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.pdb
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\PROYECTO TELESHOPPING.exe.config
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\PROYECTO TELESHOPPING.exe
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\PROYECTO TELESHOPPING.pdb
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\DATOS_TSP.exe
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\Menssage Exception.exe
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO FACTURA.exe
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PRODUCTOS DE CATALOGO.exe
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PROVEEDOR.exe
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO USUARIO.exe
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\DATOS_TSP.pdb
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\DATOS_TSP.exe.config
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\Menssage Exception.pdb
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\Menssage Exception.exe.config
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO EMPRESA DE TRANSPORTE.pdb
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe.config
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO FACTURA.pdb
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO FACTURA.exe.config
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PRODUCTOS DE CATALOGO.pdb
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PRODUCTOS DE CATALOGO.exe.config
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PROVEEDOR.pdb
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO PROVEEDOR.exe.config
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO USUARIO.pdb
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\bin\Debug\MODULO USUARIO.exe.config
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.AssemblyReference.cache
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormInicio.resources
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormLogin.resources
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormMenuAdmin.resources
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormMenuPrincipal.resources
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\MODULO_USUARIO.FormRegistro.resources
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.Properties.Resources.resources
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.GenerateResource.cache
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.CoreCompileInputs.cache
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.CopyComplete
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.exe
+C:\Users\luis magallanes\Downloads\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\PROYECTO-FINAL-EMPRESA-TELESHOPPING-main\proyecto_teleshopping\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.pdb

@@ -1,0 +1,17 @@
+C:\Users\miche\source\repos\MODULO USUARIO\bin\Debug\MODULO USUARIO.exe.config
+C:\Users\miche\source\repos\MODULO USUARIO\bin\Debug\MODULO USUARIO.exe
+C:\Users\miche\source\repos\MODULO USUARIO\bin\Debug\MODULO USUARIO.pdb
+C:\Users\miche\source\repos\MODULO USUARIO\obj\Debug\MODULO USUARIO.csproj.AssemblyReference.cache
+C:\Users\miche\source\repos\MODULO USUARIO\obj\Debug\MODULO USUARIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\source\repos\MODULO USUARIO\obj\Debug\MODULO_USUARIO.Properties.Resources.resources
+C:\Users\miche\source\repos\MODULO USUARIO\obj\Debug\MODULO USUARIO.csproj.GenerateResource.cache
+C:\Users\miche\source\repos\MODULO USUARIO\obj\Debug\MODULO USUARIO.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\MODULO USUARIO\obj\Debug\MODULO USUARIO.exe
+C:\Users\miche\source\repos\MODULO USUARIO\obj\Debug\MODULO USUARIO.pdb
+C:\Users\miche\source\repos\MODULO USUARIO\obj\Debug\MODULO_USUARIO.FormRegistarUsuario.resources
+C:\Users\miche\source\repos\MODULO USUARIO\obj\Debug\MODULO_USUARIO.FormEliminarUsuario.resources
+C:\Users\miche\source\repos\MODULO USUARIO\obj\Debug\MODULO_USUARIO.FormModificarUsuario.resources
+C:\Users\miche\source\repos\MODULO USUARIO\bin\Debug\DATOS_TSP.exe
+C:\Users\miche\source\repos\MODULO USUARIO\bin\Debug\DATOS_TSP.pdb
+C:\Users\miche\source\repos\MODULO USUARIO\bin\Debug\DATOS_TSP.exe.config
+C:\Users\miche\source\repos\MODULO USUARIO\obj\Debug\MODULO USUARIO.csproj.CopyComplete
