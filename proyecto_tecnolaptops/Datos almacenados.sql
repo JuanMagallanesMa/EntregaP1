@@ -1,4 +1,4 @@
-use [Proyecto TeleShopping]
+use [Proyecto_Laptops]
 --TABLA  USUARIO
 create table usuarios
 ( 
@@ -142,7 +142,7 @@ CREATE PROCEDURE SP_EliminarProducto
     @id int
 AS
 BEGIN
-    -- Verificar si el producto está referenciado en la tabla de usuarios
+    -- Verificar si el producto estï¿½ referenciado en la tabla de usuarios
     IF NOT EXISTS (SELECT 1 FROM usuarios WHERE id_usuario = @id)
     BEGIN
         -- Si no hay referencias, eliminar el producto
@@ -152,7 +152,7 @@ BEGIN
     ELSE
     BEGIN
         -- Si hay referencias, mostrar un mensaje indicando que no se puede eliminar
-        PRINT 'No se puede eliminar el producto. Está siendo utilizado por usuarios.';
+        PRINT 'No se puede eliminar el producto. Estï¿½ siendo utilizado por usuarios.';
     END
 END;
 
