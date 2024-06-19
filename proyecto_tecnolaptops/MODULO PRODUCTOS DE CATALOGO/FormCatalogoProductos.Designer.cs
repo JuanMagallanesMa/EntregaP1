@@ -108,7 +108,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(674, 73);
             this.label3.TabIndex = 75;
-            this.label3.Text = "Catalogo de celulares";
+            this.label3.Text = "Catalogo de Laptops";
             // 
             // flp
             // 
